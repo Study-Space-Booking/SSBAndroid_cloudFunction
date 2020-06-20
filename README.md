@@ -1,6 +1,6 @@
 # SSBAndroid_cloudFunction
 
-### Firebase Cloud Function --- managing server-side code for SSB Android app
+### Firebase Cloud Function --- managing server-side code for Study Space Booking Android Application
 
 #### 1. use npm to install firebase tools
 ```javascript
